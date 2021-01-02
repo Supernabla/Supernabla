@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [GraphQL](https://graphql.org/) as a data model for web pages
 - 🤔 I’m (often...) looking for help with CSS
 - 💬 Ask me about C++ or the physics of dual-energy CT 🤓
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/simon-kirchhof/) or [GitHub](https://github.com/Supernabla) 
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/simon-kirchhof/) or [e-mail me](mailto:supernabla@web.de) 
 - ♂️ Pronouns: he/him
 - ⚡ Fun fact: I spread loads of mustard on cheese sandwiches
 
